@@ -5,7 +5,7 @@
 <tr><td  align="center">
 <font  size="-1">image courtesy of <a  href="https://www.youtube.com/c/emulaThor">emulaThor</a></font>
 </td></tr>
-</table)
+</table>
 
 Welcome to this tech-demo for the **RAD Expansion Unit**. The "RAD" is a Raspberry Pi-powered cartridge/expansion for the C64 and C128 and, for example, can be used to emulate memory expansions (please have a look at its [main page](https://github.com/frntc/RAD)).
 
