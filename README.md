@@ -24,16 +24,14 @@ In short, here is what you can experience:
 - optional: playing game-music via MIDI (Datel/Sequential interfaces) and Digimax sound output
 
 
-[emulaThor's youtube channel](https://www.youtube.com/@emulaThor) has videos showing gameplay and sound options:
+[emulaThor's youtube channel](https://www.youtube.com/@emulaThor) has **videos** showing gameplay and sound options:
 
-
-<a  href="https://www.youtube.com/watch?v=tG2TMkBB6JU">
-<img align="right" width="128"  src="https://raw.githubusercontent.com/frntc/RAD-Doom/main/Images/thumb_gameplay.jpg">
+<a href="https://www.youtube.com/watch?v=tG2TMkBB6JU">
+<img  width="128"  src="https://raw.githubusercontent.com/frntc/RAD-Doom/main/Images/thumb_gameplay.jpg">
 </a>
-<a  href="https://www.youtube.com/watch?v=bXb6k6sJZ9k">
-<img align="right" width="128"  src="https://raw.githubusercontent.com/frntc/RAD-Doom/main/Images/thumb_sound.jpg">
-</a>
-  
+<a href="https://www.youtube.com/watch?v=bXb6k6sJZ9k">
+<img  width="128"  src="https://raw.githubusercontent.com/frntc/RAD-Doom/main/Images/thumb_sound.jpg">
+</a>  
 
 ## Quickstart/Setup
 
